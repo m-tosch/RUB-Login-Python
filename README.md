@@ -19,4 +19,4 @@ $ python RubLogin.py
 </p>
 
 ## Third party libraries
-[PyQt] (https://riverbankcomputing.com/software/pyqt/intro)
+[PyQt](https://riverbankcomputing.com/software/pyqt/intro)

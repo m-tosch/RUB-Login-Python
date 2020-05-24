@@ -15,7 +15,7 @@ $ python RubLogin.py
 
 ## Screenshot
 <p align="center">
-	<img src="img/screenshot.png" width="500">
+	<img src="img/screenshot.png" width="600">
 </p>
 
 ## Third party libraries
